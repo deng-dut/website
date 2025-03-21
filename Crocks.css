@@ -1,0 +1,45 @@
+.first{
+    background-color: burlywood;
+    color: azure;
+    text-align: center;
+    border-radius: 15px;
+}
+.head{
+    background-image: url(../Pics/four.PNG);
+    background-repeat: no-repeat;
+    border-radius: 2%;
+    height: 80%;
+    width: 90%;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+}
+.men{
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border: rgb(139, 103, 103);
+    color: rgb(158, 85, 57);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: burlywood;
+    border-radius: 10%;
+}
+.poll{
+    text-align: left;
+    margin-left: 15px;
+    color: antiquewhite;
+}
+.sec{
+    text-align: center;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+.nav{
+    text-align: end;
+    background-color: rgb(54, 38, 17);
+    font-size: x-large;
+    background-position: right;
+    border-radius: 10px;
+    color: aliceblue;
+}
